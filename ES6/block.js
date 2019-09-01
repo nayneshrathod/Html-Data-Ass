@@ -1,0 +1,1 @@
+(function(){})(); // IIFE => module design pattern
